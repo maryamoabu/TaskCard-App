@@ -29,6 +29,6 @@ you break the connection between the local and remote repository.
 
 Use the command "git remote rm origin" to remove the connection
 
-This prevents any changes yu make to yur project to affect the skeleton.
+This prevents any changes you make to yur project to affect the skeleton.
 
 
